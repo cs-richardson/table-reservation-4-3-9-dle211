@@ -10,8 +10,8 @@ reservation_name = "Justin"
 
 # If the name is Justin, then there's a table reserved for them.
 if name == "Justin":
-    print "Right this way!"
+    print("Right this way!")
 
 # Otherwise, there is no table reserved for them.
 else:
-    print "Sorry, we don't have a reservation under that name."
+    print("Sorry, we don't have a reservation under that name.")
